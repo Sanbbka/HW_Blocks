@@ -18,6 +18,7 @@
 - (NSArray*)ex_filter:(BOOL(^)(id obj))filterBlock
 {
     return nil;
+    lalka
 }
 
 - (id)ex_sum:(id)initialValue withBlock:(id(^)(id sum, id obj))sumBlock
